@@ -14,6 +14,20 @@ return [
     */
 
     'name' => env('APP_NAME', 'FIPL'),
+    'phone_1' => '+234 704 5678 345',
+    'phone_2' => '+234 704 5678 345',
+    'email' => 'info@fipl.ng',
+    'address' => '18 Udi street, Wema Terrace
+                   Osborne Foreshore, Ikoyi
+                    Lagos, Nigeria',
+    'web' => 'www.fipl.ng',
+    'facebook' => '#',
+    'twitter' => '#',
+    'instagram' => '#',
+    'location' => 'Lagos, Nigeria',
+
+
+
 
     /*
     |--------------------------------------------------------------------------

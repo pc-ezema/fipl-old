@@ -23,3 +23,9 @@ Route::get('/about-us', 'homepageController@aboutUs');
 Route::get('/gallery', 'homepageController@gallery');
 Route::get('/our-services' , 'homepageController@ourServices');
 Route::get('/our-team', 'homepageController@ourTeam');
+
+Route::post('/contact-us' , 'homepageController@contactusConfirm');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
