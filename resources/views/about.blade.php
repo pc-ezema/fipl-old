@@ -54,7 +54,7 @@
     </section>
 
     <!-- Section: Services -->
-    <section class="bg-silver-light">
+    <!-- <section class="bg-silver-light">
       <div class="container">
         <div class="section-title text-center">
           <div class="row">
@@ -126,10 +126,10 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Divider: Funfact -->
-    <section class="divider parallax layer-overlay overlay-theme-colored-8" data-bg-img="http://placehold.it/1920x873" data-parallax-ratio="0.7">
+    <!-- <section class="divider parallax layer-overlay overlay-theme-colored-8" data-bg-img="http://placehold.it/1920x873" data-parallax-ratio="0.7">
       <div class="container">
         <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
@@ -162,7 +162,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Section: Depertment -->
     <section id="depertment" class="bg-silver-light">
@@ -185,7 +185,7 @@
                 <img src="http://placehold.it/370x270" alt="">
                 <h3 class=""><a href="#">Dental Implant</a></h3>
                 <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit tem autem voluptatem obcaecati.</p>
-                <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>                
+                <!-- <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>                 -->
               </div>
             </div>
 
@@ -194,7 +194,7 @@
                 <img src="http://placehold.it/370x270" alt="">
                 <h3 class=""><a href="#">Dental Bridges</a></h3>
                 <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit tem autem voluptatem obcaecati.</p>
-                <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>             
+                <!-- <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>              -->
               </div>
             </div>
 
@@ -203,7 +203,7 @@
                 <img src="http://placehold.it/370x270" alt="">
                 <h3 class=""><a href="#">Root Canel</a></h3>
                 <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit tem autem voluptatem obcaecati.</p>
-                <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>             
+                <!-- <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>              -->
               </div>
             </div>
 
@@ -212,7 +212,7 @@
                 <img src="http://placehold.it/370x270" alt="">
                 <h3 class=""><a href="#">Dental Implant</a></h3>
                 <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit tem autem voluptatem obcaecati.</p>
-                <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>                
+                <!-- <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>                 -->
               </div>
             </div>
 
@@ -221,7 +221,7 @@
                 <img src="http://placehold.it/370x270" alt="">
                 <h3 class=""><a href="#">Dental Bridges</a></h3>
                 <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit tem autem voluptatem obcaecati.</p>
-                <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>             
+                <!-- <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>              -->
               </div>
             </div>
 
@@ -230,8 +230,31 @@
                 <img src="http://placehold.it/370x270" alt="">
                 <h3 class=""><a href="#">Root Canel</a></h3>
                 <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit tem autem voluptatem obcaecati.</p>
-                <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>             
+                <!-- <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>              -->
               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+      <!-- Divider: Clients -->
+      <section class="clients bg-theme-colored">
+      <div class="container pt-10 pb-0">
+        <div class="row">
+          <div class="col-md-12">
+            <!-- Section: Clients -->
+            <div class="owl-carousel-6col text-center owl-nav-top">
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
             </div>
           </div>
         </div>

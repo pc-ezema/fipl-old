@@ -40,14 +40,14 @@
                   </div>
                 </div>
               </div>
-              <div class="col-xs-12 col-sm-6 col-md-12">
+              <!-- <div class="col-xs-12 col-sm-6 col-md-12">
                 <div class="icon-box left media bg-deep p-30 mb-20"> <a class="media-left pull-left" href="#"> <i class="fa fa-skype text-theme-colored"></i></a>
                   <div class="media-body">
                     <h5 class="mt-0">Make a Video Call</h5>
                     <p>ThemeMascotSkype</p>
                   </div>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
           <div class="col-md-8">
@@ -74,16 +74,16 @@
               </div>
                 
               <div class="row">
-                <div class="col-sm-6">
+              <div class="col-sm-6">
                   <div class="form-group">
-                    <label>Subject <small>*</small></label>
-                    <input name="subject" class="form-control required" type="text" placeholder="Enter Subject">
+                    <label>Phone</label>
+                    <input name="phone" class="form-control" type="text" placeholder="Enter Phone">
                   </div>
                 </div>
                 <div class="col-sm-6">
                   <div class="form-group">
-                    <label>Phone</label>
-                    <input name="phone" class="form-control" type="text" placeholder="Enter Phone">
+                    <label>Subject <small>*</small></label>
+                    <input name="subject" class="form-control required" type="text" placeholder="Enter Subject">
                   </div>
                 </div>
               </div>
@@ -94,8 +94,8 @@
               </div>
               <div class="form-group">
                 <input name="form_botcheck" class="form-control" type="hidden" value="" />
-                <button type="submit" class="btn btn-dark btn-theme-colored btn-flat mr-5" data-loading-text="Please wait...">Send your message</button>
-                <button type="reset" class="btn btn-default btn-flat btn-theme-colored">Reset</button>
+                <button type="submit" class="btn btn-dark btn-theme-colored btn-flat mr-5" data-loading-text="Please wait...">Send message</button>
+                <!-- <button type="reset" class="btn btn-default btn-flat btn-theme-colored">Reset</button> -->
               </div>
             </form>
           </div>
