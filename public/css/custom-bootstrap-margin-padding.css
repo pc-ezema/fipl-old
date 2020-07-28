@@ -1739,3 +1739,7 @@
 .pl-xxs-190 {padding-left: 190px !important}
 .pl-xxs-200 {padding-left: 200px !important}
 }
+
+.pb-bottom-gap {
+    margin-bottom: 1.5rem;
+}

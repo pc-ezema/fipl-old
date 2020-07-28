@@ -14,7 +14,7 @@
 @section("main_content")
 
 <section class="bg-theme-colored2_1">
-      <div class="container pt-0 pb-0">
+      <div class="container pt-0 pb-0 pb-bottom-gap">
         <div class="row">
           <div class="col-md-4">
             <div class="bg-theme-colored2 p-20">
