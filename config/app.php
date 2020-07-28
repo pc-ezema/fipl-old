@@ -21,9 +21,9 @@ return [
                    Osborne Foreshore, Ikoyi
                     Lagos, Nigeria',
     'web' => 'www.fipl.ng',
-    'facebook' => '#',
+    'facebook' => 'https://web.facebook.com/Foodpark-108913344131907/?_rdc=1&_rdr',
     'twitter' => '#',
-    'instagram' => '#',
+    'instagram' => 'https://www.instagram.com/foodpark__/',
     'location' => 'Lagos, Nigeria',
 
 

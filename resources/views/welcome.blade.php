@@ -13,13 +13,41 @@
 
 @section("main_content")
 
-    <!-- Section: home-boxes -->
-    <section>
+<section class="bg-theme-colored2_1">
+      <div class="container pt-0 pb-0">
+        <div class="row">
+          <div class="col-md-4">
+            <div class="bg-theme-colored2 p-20">
+              <i class="flaticon-dental-hemostat-1 text-white font-42 pull-left flip mr-20"></i>
+              <h4 class="text-white font-weight-600 mb-0">Best Medical Services</h4>
+              <h5 class="text-gray-lightgray mt-5">Get Your Services Now From Us</h5>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="bg-theme-colored_1 p-20">
+              <i class="flaticon-dental-cracked-tooth text-white font-42 pull-left flip mr-20"></i>
+              <h4 class="text-white font-weight-600 mb-0">Best Dental Treatment</h4>
+              <h5 class="text-gray-lightgray mt-5">Get Your Services Now From Us</h5>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="bg-theme-colored2_1 p-20">
+              <i class="flaticon-dental-teeth-protection text-white font-42 pull-left flip mr-20"></i>
+              <h4 class="text-white font-weight-600 mb-0">Emergency Case</h4>
+              <h5 class="text-gray-lightgray mt-5">Call at +(012) 345 6789</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+</section>
+ 
+<!-- Section: home-boxes -->
+    <!-- <section>
       <div class="container-fluid pt-0">
         <div class="section-content">
           <div class="row equal-height-inner mt-sm-0">
             <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay1">
-              <div class="sm-height-auto bg-theme-colored">
+              <div class="sm-height-auto bg-theme-colored_1">
                 <div class="text-center pt-30 pb-sm-30">
                   <div class="icon-box text-center">
                     <a class="icon bg-silver-light icon-circled" href="#"> <i class="flaticon-medical-blood8 text-theme-colored"></i> </a>
@@ -41,7 +69,7 @@
               </div>
             </div>
             <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay3">
-              <div class="sm-height-auto bg-theme-colored-darker5">
+              <div class="sm-height-auto bg-theme-colored_1">
                 <div class="text-center pt-30 pb-sm-30">
                   <div class="icon-box text-center">
                     <a class="icon bg-silver-light icon-circled" href="#"> <i class="flaticon-medical-pill text-theme-colored"></i> </a>
@@ -52,7 +80,7 @@
               </div>
             </div>
             <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay4">
-              <div class="sm-height-auto bg-theme-colored-darker9">
+              <div class="sm-height-auto bg-theme-colored-darker3">
                 <div class="text-center pt-30 pb-sm-30">
                   <div class="icon-box text-center">
                     <a class="icon bg-silver-light icon-circled" href="#"> <i class="fa fa-phone  text-theme-colored"></i> </a>
@@ -65,7 +93,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Section: about -->
     <section id="about">

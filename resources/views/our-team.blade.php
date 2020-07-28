@@ -21,7 +21,7 @@
           </div>
           <div class="team-details bg-theme-colored2 p-20">
             <h4 class="text-uppercase mb-0"><a class="text-white" href="#">Dr. Linda Feldman</a></h4>
-            <p class="">Root Canals Dentist</p>
+            <p class="mp">Root Canals Dentist</p>
           </div>
         </div>
       </div>
@@ -33,7 +33,7 @@
           </div>
           <div class="team-details bg-theme-colored2 p-20">
             <h4 class="text-uppercase mb-0"><a class="text-white" href="#">Dr. Jessica Tailor</a></h4>
-            <p class="">Implant Surgeon </p>
+            <p class="mp">Implant Surgeon </p>
           </div>
         </div>
       </div>
@@ -45,7 +45,7 @@
           </div>
           <div class="team-details bg-theme-colored2 p-20">
             <h4 class="text-uppercase mb-0"><a class="text-white" href="#">Dr. Nichol Fleming</a></h4>
-            <p class="">Cosmetic Dental Surgeon</p>
+            <p class="mp">Cosmetic Dental Surgeon</p>
           </div>
         </div>
       </div>
@@ -57,7 +57,7 @@
           </div>
           <div class="team-details bg-theme-colored2 p-20">
             <h4 class="text-uppercase mb-0"><a class="text-white" href="#">Dr. Brian Adam</a></h4>
-            <p class="">Restorative Dentist</p>
+            <p class="mp">Restorative Dentist</p>
           </div>
         </div>
       </div>
@@ -69,7 +69,7 @@
           </div>
           <div class="team-details bg-theme-colored2 p-20">
             <h4 class="text-uppercase mb-0"><a class="text-white" href="#">Dr. Jessica Tailor</a></h4>
-            <p class="">Implant Surgeon </p>
+            <p class="mp">Implant Surgeon </p>
           </div>
         </div>
       </div>

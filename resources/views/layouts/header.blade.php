@@ -9,14 +9,14 @@
             </div>
           </div>
           <div class="col-md-6">
-            <div class="widget pull-right flip sm-pull-none">
+            <!-- <div class="widget pull-right flip sm-pull-none">
               <div id="side-panel-trigger" class="side-panel-trigger mt-5">
                 <a href="#"><i class="fa fa-bars text-theme-colored font-24"></i></a>
               </div>
-            </div>
+            </div> -->
             <div class="widget">
               <ul class="list-inline pull-right flip sm-pull-none sm-text-center">
-                <li><i class="fa fa-phone text-theme-colored"></i> Call Us at <a href="#">{{config("app.phone_1")}}</a></li>
+                <li><i class="fa fa-phone text-theme-colored"></i> Call Us on <a href="#">{{config("app.phone_1")}}</a></li>
                 <li><i class="fa fa-envelope-o text-theme-colored"></i> <a href="#">{{config("app.email")}}</a></li>
               </ul>
             </div>
