@@ -62,7 +62,7 @@
                 <div class="col-sm-12">
                   <div class="form-group">
                     <label>Name <small>*</small></label>
-                    <input name="fullname" class="form-control" type="text" placeholder="Enter Name" required="">
+                    <input name="fullname" class="form-control" type="text" placeholder="Enter Name">
                   </div>
                 </div>
                 <div class="col-sm-12">
@@ -92,6 +92,10 @@
                 <label>Message</label>
                 <textarea name="message" class="form-control required" rows="5" placeholder="Enter Message"></textarea>
               </div>
+
+              {!! NoCaptcha::renderJs() !!}
+              {!! NoCaptcha::display() !!}
+
               <div class="form-group">
                 <input name="form_botcheck" class="form-control" type="hidden" value="" />
                 <button type="submit" class="btn btn-dark btn-theme-colored btn-flat mr-5" data-loading-text="Please wait...">Send message</button>
